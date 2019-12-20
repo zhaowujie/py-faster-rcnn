@@ -1,6 +1,6 @@
-## [原始的代码](https://github.com/rbgirshick/py-faster-rcnn)
-### 从上面的网址下载的，改正了几个小错误，主要是python的包的版本不兼容导致的
-## 使用
+## [原始的代码](https://github.com/rbgirshick/py-faster-rcnn) 
+从上面的网址下载的，改正了几个小错误，主要是python的包的版本不兼容导致的
+
 ### 1.下载代码
 
 ```Shell
